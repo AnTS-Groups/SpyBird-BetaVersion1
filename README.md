@@ -1,4 +1,4 @@
-# SpyBird Version 1.0.0
+# SpyBird Beta Version 1.0.0
 SpyBird is OSINT Tools(INFORMATION GATHERING PERSON)
 ![SpyBird Logo](logo.png)
 
@@ -14,5 +14,5 @@ Feature:
 4. Run program in your CMD: python spybird_start.py.
 
 # Contact Us
-1. [Send Email](https://mailto:tmdgroupid@gmail.com)
-2. [Chat Whatsapp](https://wa.me/625692060498)
+1. [Send Email](https://mailto:anandatechnologysolution@gmail.com)
+2. [Chat Whatsapp](https://wa.me/6285692060498)
