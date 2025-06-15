@@ -8,7 +8,7 @@ class SpyBird:
         print("SpyBird")
         print("Tool OSINT (INFORMATION GATHERING) Email and Social Media")
         print("16 May 2024")
-        print("Version: 1.0.0")
+        print("Beta Version: 1.0.0")
         print("-----------------------------------------------------------------------------------------\n")
 
     @staticmethod
